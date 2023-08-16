@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](https://github.com/AnDel55/results-summary-component/blob/main/assets/screenshots/desktop.jpeg)
-![](https://github.com/AnDel55/results-summary-component/blob/main/assets/screenshots/mobile.jpeg)
+![](assets/screenshots/desktop.jpeg)
+![](assets/screenshots/mobile.jpeg)
 
 ### Links
 
